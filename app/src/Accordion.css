@@ -1,0 +1,22 @@
+
+.accordion{
+    background-color: antiquewhite;
+    margin: auto;
+    width: 80%;
+  margin-top: 70px;
+}
+.accordion-header {
+    background-color: #afe687; /* Background color */
+    color: #5bccd4; /* Text color */
+    padding: 1rem; /* Padding */
+    cursor: pointer; /* Cursor style */
+    border: 1px solid #dee2e6; /* Border */
+  }
+  
+  .accordion-body {
+    padding: 1rem; /* Padding */
+    color: #b6e6c8;
+    background-color: hsla(215, 36%, 46%, 0.868);
+    
+    border-top: 1px solid #dee2e6; /* Border */
+  }
