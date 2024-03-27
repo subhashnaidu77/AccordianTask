@@ -8,7 +8,7 @@ function App() {
   return (
     <div className="App">
       <AccordionComponent/>
-    <p>Helo</p>
+    <p>Hello world</p>
    
      
     </div>
