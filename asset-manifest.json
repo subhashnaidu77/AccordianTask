@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/AccordianTask/static/css/main.c4363a41.css",
-    "main.js": "/AccordianTask/static/js/main.50429e69.js",
+    "main.js": "/AccordianTask/static/js/main.cd5e7a24.js",
     "static/js/453.a6a97343.chunk.js": "/AccordianTask/static/js/453.a6a97343.chunk.js",
     "index.html": "/AccordianTask/index.html",
     "main.c4363a41.css.map": "/AccordianTask/static/css/main.c4363a41.css.map",
-    "main.50429e69.js.map": "/AccordianTask/static/js/main.50429e69.js.map",
+    "main.cd5e7a24.js.map": "/AccordianTask/static/js/main.cd5e7a24.js.map",
     "453.a6a97343.chunk.js.map": "/AccordianTask/static/js/453.a6a97343.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c4363a41.css",
-    "static/js/main.50429e69.js"
+    "static/js/main.cd5e7a24.js"
   ]
 }
